@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-sync-scripts */
 import './globals.css'
 
 export const metadata = {
@@ -13,7 +14,7 @@ export default function RootLayout({
   return (
     <html lang="pt-br">
       <head>
-        <script src="https://unpkg.com/@phosphor-icons/web" />
+        <script src="https://unpkg.com/@phosphor-icons/web" ></script>
       </head>
       <body>{children}</body>
     </html>
