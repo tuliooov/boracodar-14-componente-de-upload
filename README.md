@@ -17,4 +17,4 @@ Develop a Upload Component.
 https://www.figma.com/file/tR6MjjQCDK1zxPIUgoQZlK/%23boraCodar---Desafio-14-(Community)?node-id=0-1&t=kgkBc2QkH3wp9t72-0
 
 ## Deployed
-- https://boracodar-14-componente-de-uploadyar.vercel.app/
+- https://boracodar-14-componente-de-upload.vercel.app/
